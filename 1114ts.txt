@@ -1,0 +1,31 @@
+https://developer.mozilla.org/ko/
+
+https://www.howdy-mj.me/javascript/var-let-const
+var, let, const 차이점
+
+전역변수에 접근하고자 할 때: this.전역변수
+
+res
+
+Class -> Object <오프젝트를 만드려면 클래스가 꼭 필요>
+
+명사property, member variable, field
+동사 funtion, method
+
+Ex) Class
+	변수 3개, 함수 2개
+Object1, Object2, Object3
+
+OOP / Object Oriented Programming <객체지향프로그래밍>
+OBP / Object Based programming <객체기반언어 (옛날 자바스크립트)>
+
+코어객체 종류: Array Date String Math 등
+
+배열 - 인덱스로 시작?
+
+사용자가 새로운 타입의 객체 작성 가능 !!ppt 참고해서 외우긔!!
+
+
+
+
+

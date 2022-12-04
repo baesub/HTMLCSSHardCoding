@@ -1,0 +1,5 @@
+1. member.sql을 db서버에 올린다
+2. memberform으로 양식 만들기 (pass, passform 따로 주의)
+
+php my admin
+책 ~307

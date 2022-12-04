@@ -1,0 +1,40 @@
+서버 - 응답 / 서비스주는거
+클라이언트 - 요청만
+
+웹 : World wide web
+인터넷을 활용하여 거미줄처럼 연결된 정보 소통망
+
+프론트엔드 - <ui, ux를 담당하는 개발자>
+이용자의 눈에 보이는 부분 개발 html, css, javascript
+
+백엔드 - 이용자의 눈에 보이지 않는 부분 개발 server, db, api
+풀스택 - 둘 다
+
+dns - 
+md - 마크다운
+
+
+https://booksr.co.kr/
+
+https://html5test.com/
+
+https://gs.statcounter.com/
+
+roadmap.cs
+
+dothome.co.kr
+
+https://bmac.kr/ 회원가입
+
+부산정보산업진흥원 회원가입
+ 
+g2b.go.kr
+
+aws azure gcp 
+https://moondol-ai.tistory.com/m/184
+
+내년 3월 국민내일배움카드 신청
+
+https://www.inflearn.com/?utm_source=google_brand_search&utm_medium=cpc&utm_campaign=01.brand&utm_content=mainkw&utm_term=inflearn&gclid=EAIaIQobChMIvNa65oXm-gIVw9CWCh2RygoHEAAYASAAEgINWvD_BwE
+
+https://gist.github.com/ihoneymon/652be052a0727ad59601
